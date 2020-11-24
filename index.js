@@ -1,4 +1,5 @@
 
+  // pushing code to github
   var qlist = ["What is John's real name?\n",
     "What martial arts did John used the most?\n",
     "How did John wear his wrist watch?\nA)inside\nB)outside\n",
